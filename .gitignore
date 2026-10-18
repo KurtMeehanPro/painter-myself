@@ -1,0 +1,25 @@
+# Local datasets and model checkpoints
+/data/raw/**
+!/data/raw/**/
+!/data/raw/**/.gitkeep
+/data/checkpoints/**
+!/data/checkpoints/**/
+!/data/checkpoints/**/.gitkeep
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Local settings and secrets
+.DS_Store
+.env
+.env.*
+!.env.example
