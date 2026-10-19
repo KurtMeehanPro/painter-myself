@@ -1,10 +1,5 @@
 # Local datasets and model checkpoints
-/data/raw/**
-!/data/raw/**/
-!/data/raw/**/.gitkeep
-/data/checkpoints/**
-!/data/checkpoints/**/
-!/data/checkpoints/**/.gitkeep
+/data/
 
 # Python and notebook caches
 __pycache__/
