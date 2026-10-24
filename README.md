@@ -8,12 +8,13 @@ Submissions are evaluated using [Memorization-informed Fréchet Inception Distan
 
 ## Results Summary
 
-TBD
+Image generation succeeds, but a Kaggle submission error currently prevents scoring. See [Kaggle submission issue](docs/kaggle-submission-deprecated-parameter.md).
 
 ## Documentation
 
 - **Project README** — The project's top-level README, the document you're reading right now.
 - [Model implementation options](docs/model_implementation_choices.md) — Compares pretrained inference, fine-tuning, training an existing implementation from scratch, and writing our own implementation.
+- [Kaggle submission issue](docs/kaggle-submission-deprecated-parameter.md) — Documents the submission error preventing a competition score.
 
 ## Layout
 
